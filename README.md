@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tars47
 - 👀 I’m interested Backend Engineering
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m well versed in GoLang and Nodejs
 - 💞️ I’m looking to collaborate on anything backend
 - 📫 reach me at 47sudeep@gmail.com
 
